@@ -1,0 +1,5 @@
+set yrange[-0.05:1.05]
+plot 'plot.dat' using 1:2 with line title 'Etat final', \
+'plot.dat' using 1:3 with line title 'Solution exacte', \
+'plot.dat' using 1:4 with line title 'Etat initial'
+pause -1

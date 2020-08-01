@@ -1,0 +1,2 @@
+plot 'data.trafic.dat' using 1:2 with line title 'Densite en fonction du temps'
+pause -1

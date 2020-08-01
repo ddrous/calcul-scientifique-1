@@ -1,0 +1,2 @@
+plot 'plot.dat' using 1:2 with line title 'Etat final'
+pause -1
