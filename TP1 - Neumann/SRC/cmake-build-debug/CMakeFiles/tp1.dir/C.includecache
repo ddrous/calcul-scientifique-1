@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/drn/Dropbox/Unistra/SEMESTRE 1/SOURCE_CODE/cs1/tp1/neumann.c
+neumann.h
+/home/drn/Dropbox/Unistra/SEMESTRE 1/SOURCE_CODE/cs1/tp1/neumann.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/drn/Dropbox/Unistra/SEMESTRE 1/SOURCE_CODE/cs1/tp1/neumann.h
+stdbool.h
+-
+skyline.h
+/home/drn/Dropbox/Unistra/SEMESTRE 1/SOURCE_CODE/cs1/tp1/skyline.h
+
+/home/drn/Dropbox/Unistra/SEMESTRE 1/SOURCE_CODE/cs1/tp1/skyline.h
+stdbool.h
+-
+
