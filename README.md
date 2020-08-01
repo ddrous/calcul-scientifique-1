@@ -4,11 +4,17 @@ Résolution de divers EDP en langage C et visualisation avec gnuplot
 - TP1 - Neumann  
 Introduction pour les autres séances de travaux pratiques.
 
-- TP2 - Equation de la chaleur  
-![equation de la chaleur](/Data_rapport/fig 3.png)
+- TP2 - Equation de la chaleur    
+![Image](/Data_rapport/fig_3.png)
 
-- TP3 - Equation de transport
+- TP3 - Equation de transport   
+![Image](/Data_rapport/fig_9.png)
 
-- TP5 - Equation des ondes
+- TP3 - Equation de Burgers   
+![Image](/Data_rapport/fig_15.png)
 
-- TP6 - Equation de Laplace
+- TP5 - Equation des ondes   
+
+
+- TP6 - Equation de Laplace    
+![Image](/Data_rapport/fig_5.png)
