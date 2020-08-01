@@ -1,5 +1,5 @@
 # Calcul-scientifique-1
-Résolution de divers EDP en langage C et visualisation avec gnuplot
+Résolution de divers EDP en langage C et visualisation avec gnuplot.
 
 - TP1 - Neumann  
 Introduction pour les autres séances de travaux pratiques.
