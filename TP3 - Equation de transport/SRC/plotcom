@@ -1,0 +1,5 @@
+set yrange[0:1]
+plot 'plot.dat' using 1:2 with line title 'solution numerique au temps final', \
+'plot.dat' using 1:3 with line title 'solution exacte au temps final', \
+# 'plot.dat' using 1:4 with line title 'solution numerique au milieu'
+pause -1
