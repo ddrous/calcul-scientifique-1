@@ -8,7 +8,7 @@ Introduction pour les autres séances de travaux pratiques.
 ![Image](/Data_rapport/fig_3.png)
 
 - TP3 - Equation de transport   
-![Image](/Data_rapport/fig_9.png)
+![Image](/Data_rapport/fig_6.png)
 
 - TP3 - Equation de Burgers   
 ![Image](/Data_rapport/fig_15.png)
